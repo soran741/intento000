@@ -5,10 +5,13 @@
  */
 package javaapplication2;
 
+
 /**
  *
  * @author Soran
  */
 public class Hola {
     public String _h = "hola";
+    private float _alfa=1.0568f;
+    
 }
